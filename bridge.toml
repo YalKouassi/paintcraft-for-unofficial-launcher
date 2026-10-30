@@ -17,6 +17,7 @@ publisher = "Replicraft"
 bundle_id = "io.github.replicraft.PaintCraft"   # CFBundleIdentifier in upstream's Info.plist
 msi_publisher = "Replicraft"                    # Manufacturer in upstream's MSI
 website = "https://github.com/replicraft/PaintCraft"
+web_demo = "https://playground.daijro.dev/head/paintcraft/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#2f6fd6"
 
 [icon]
